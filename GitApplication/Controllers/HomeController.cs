@@ -15,7 +15,7 @@ namespace GitApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page1.";
+            ViewBag.Message = "Your application description page1Master.";
 
             return View();
         }
